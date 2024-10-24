@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FERIA_EMI_QRATTEND/static/css/main.98de6f84.css",
+    "main.js": "/FERIA_EMI_QRATTEND/static/js/main.8b167670.js",
+    "static/js/453.f382d4c4.chunk.js": "/FERIA_EMI_QRATTEND/static/js/453.f382d4c4.chunk.js",
+    "index.html": "/FERIA_EMI_QRATTEND/index.html",
+    "main.98de6f84.css.map": "/FERIA_EMI_QRATTEND/static/css/main.98de6f84.css.map",
+    "main.8b167670.js.map": "/FERIA_EMI_QRATTEND/static/js/main.8b167670.js.map",
+    "453.f382d4c4.chunk.js.map": "/FERIA_EMI_QRATTEND/static/js/453.f382d4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98de6f84.css",
+    "static/js/main.8b167670.js"
+  ]
+}
