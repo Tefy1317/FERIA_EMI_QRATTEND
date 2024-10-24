@@ -1,4 +1,3 @@
-// src/Registro.js
 import React, { useState } from 'react';
 import axios from 'axios';
 import './App.css';
@@ -86,8 +85,8 @@ function Registro() {
 
   return (
     <div className="container">
-      <h1>QRATTEND</h1>
-      <p>Aplicación web para la asistencia</p>
+    <h1>Bienvenido</h1>
+      <p>Registra tu asistencia</p>
       <form onSubmit={enviarAsistencia}>
         <input
           type="text"
